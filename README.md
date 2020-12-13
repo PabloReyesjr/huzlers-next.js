@@ -4,7 +4,7 @@ This example showcases Next.js's [Static Generation](https://nextjs.org/docs/bas
 
 ## Demo
 
-### [https://next-js-dusky-six.vercel.app/](https://next-js-dusky-six.vercel.app/)
+### [https://huzlers-next-js-eynodd1y7.vercel.app/](https://huzlers-next-js-eynodd1y7.vercel.app/)
 
 ## Deploy your own
 
