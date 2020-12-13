@@ -17,7 +17,7 @@ export default function Footer() {
               Read Documentation
             </a>
             <a
-              href={`https://github.com/PabloReyesjr/next.js`}
+              href={`https://github.com/PabloReyesjr/huzlers-next.js`}
               className="mx-3 font-bold hover:underline"
             >
               View on GitHub
